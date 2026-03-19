@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "KodaMatch",
+    "slug": "kodamatch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#7A302A"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kodamatch.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#7A302A"
+      },
+      "package": "com.kodamatch.app"
+    }
+  }
+}
